@@ -1,0 +1,2 @@
+# AfriHacks2023-PayFlo
+PayFlo, an innovative banking system that addresses the challenges of financial inclusion in emerging economies. The application will encompass a range of features designed to empower users with limited access to traditional banking services. One key feature is the implementation of an offline banking system, allowing users to perform essential banking transactions without the need for a constant internet connection.
